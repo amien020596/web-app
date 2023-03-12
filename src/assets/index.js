@@ -10,6 +10,7 @@ import github from "./github.png";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
 import jobit from "./jobit.png";
+import logo from "./logo.svg"
 import menu from "./menu.svg";
 import meta from "./company/meta.png";
 import mobile from "./mobile.png";
@@ -26,25 +27,7 @@ import tripguide from "./tripguide.png";
 import typescript from "./tech/typescript.png";
 import web from "./web.png";
 
-// import { ReactComponent as logo } from "./logo.svg";
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 export {
-  // logo,
   backend,
   creator,
   mobile,
@@ -72,4 +55,5 @@ export {
   carrent,
   jobit,
   tripguide,
+  logo
 };
