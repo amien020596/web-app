@@ -1,8 +1,11 @@
+import { ComputersCanvas } from './canvas';
 import React from 'react'
+import { motion } from 'framer-motion';
+import { styles } from '../styles'
 
 const Hero = () => {
   return (
-    <div>Hero</div>
+    <section class="relative w-full h-screen mx-auto">Hero</section>
   )
 }
 
